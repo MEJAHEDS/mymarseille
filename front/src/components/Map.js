@@ -56,7 +56,7 @@ export default function Map() {
               class="btn btn-outline-dark"
               onClick={() => hotless()}
             >
-              hotels
+              Hotels
             </button>
           </div>
           <div className="col-2">
@@ -65,7 +65,7 @@ export default function Map() {
               class="btn btn-outline-dark"
               onClick={() => monuments()}
             >
-              Historique
+              Culture
             </button>
           </div>
           <div className="col-2">

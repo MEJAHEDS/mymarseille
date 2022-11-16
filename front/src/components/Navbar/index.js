@@ -15,8 +15,6 @@ const Navbar = () => {
             alt="logo"
             style={{
               height: "100px",
-              
-              
             }}
           />
           <img
@@ -24,21 +22,13 @@ const Navbar = () => {
             alt="logo"
             style={{
               height: "80px",
-              
             }}
           />
-
         </NavLink>
         <Bars />
         <NavMenu>
-          <NavLink to="/newlist" activeStyle>
-            About
-          </NavLink>
-          <NavLink to="/services" activeStyle>
-            Services
-          </NavLink>
           <NavLink to="/contact-us" activeStyle>
-            Contact Us
+            Circuit touristique
           </NavLink>
 
           {/* Second Nav */}
